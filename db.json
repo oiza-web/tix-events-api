@@ -6,7 +6,7 @@
       "title": "Loving hearts",
       "date": "10-12-21",
       "price": "$40",
-      "image": "",
+      "image": "https://bit.ly/30fRu92",
       "numberTicketsLeft": 7,
        "daysLeft": 7
     },
@@ -16,7 +16,7 @@
        "title": "Nodejs mastery",
       "date": "24-12-21",
       "price": "$400",
-      "image": "",
+      "image": "https://media.istockphoto.com/photos/audience-listens-to-the-lecturer-at-the-conference-picture-id974238866?b=1&k=20&m=974238866&s=170x170&h=LmHJkluRHdbtnzTmigsWv1Cb0inGTLAkJOuPT_q0AXQ=",
       "numberTicketsLeft": 4,
        "daysLeft": 20
     },
