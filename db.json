@@ -5,7 +5,8 @@
       "name": "Lary Moore music concert",
       "title": "Loving hearts",
       "date": "10-12-21",
-       "price": "$40",
+      "price": "$40",
+      "image": "https://www.freepik.com/free-psd/jazz-concert-print-template_17253621.htm#page=1&query=event%20poster&position=3&from_view=keyword",
       "numberTicketsLeft": 7,
        "daysLeft": 7
     },
@@ -15,6 +16,7 @@
        "title": "Nodejs mastery",
       "date": "24-12-21",
       "price": "$400",
+      "image": "https://www.freepik.com/free-vector/software-developers-working-script-coding-engineer-character-programming-php-python-javascript-other-languages_14723866.htm#page=1&query=javascript&position=1&from_view=search",
       "numberTicketsLeft": 4,
        "daysLeft": 20
     },
@@ -24,6 +26,7 @@
        "title": "Designing for users",
       "date": "25-11-21",
       "price": "$20",
+      "image": "https://www.freepik.com/free-psd/jazz-concert-print-template_17253621.htm#page=1&query=event%20poster&position=3&from_view=keyword",
       "numberTicketsLeft": 4,
        "daysLeft": 9
     },
@@ -32,6 +35,7 @@
       "name": "AXA Group",
        "title": "Insurance 101",
       "price": "Free",
+      "image": "https://www.freepik.com/free-psd/jazz-concert-print-template_17253621.htm#page=1&query=event%20poster&position=3&from_view=keyword",
       "date": "20-12-21",
       "numberTicketsLeft": 4,
        "daysLeft": 2
