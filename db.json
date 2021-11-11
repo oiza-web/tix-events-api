@@ -2,13 +2,35 @@
   "events": [
     {
       "name": "Lary more music concert",
-      "date": "today",
-      "numberTicketsLeft": 7
+      "title": "Lary more music concert",
+      "date": "10-12-21",
+       "price": "$400",
+      "numberTicketsLeft": 7,
+       "daysLeft": 7
     },
     {
       "name": "Lary more music concert",
-      "date": "yesterday",
-      "numberTicketsLeft": 4
+       "title": "Lary more music concert",
+      "date": "24-12-21",
+      "price": "$400",
+      "numberTicketsLeft": 4,
+       "daysLeft": 20
+    },
+    {
+      "name": "Lary more music concert",
+       "title": "Lary more music concert",
+      "date": "25-11-21",
+      "price": "$400",
+      "numberTicketsLeft": 4,
+       "daysLeft": 9
+    },
+    {
+      "name": "Lary more music concert",
+       "title": "Lary more music concert",
+      "price": "$400",
+      "date": "20-12-21",
+      "numberTicketsLeft": 4,
+       "daysLeft": 2
     }
   ]
 }
